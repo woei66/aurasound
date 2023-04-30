@@ -15,3 +15,4 @@ It will generate a frequency(Hz) which you assigned in code and play the frequen
 According to my personal experience about this tool, it doesn't work as I expected.
 I can't understand the meaning of the human voice.
 Therefore, using sound frequency to activate the pineal gland and have a short ability to understand all languages is not work at this moment.
+
